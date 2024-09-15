@@ -84,8 +84,7 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ThreeShade's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ThreeShade&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Developer+With+TDD" alt="Typing SVG" /></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThreeShade&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ThreeShade" height="192px"/>
