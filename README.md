@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Chandran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Test+Driven+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=+++++++++++++++++++++++++Full+Stack+Developer+With+TDD" alt="Typing SVG" /></a>
 </p>
 <hr/>
 <h4 align="center">I am a full full stack web developer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love exchanging ideas and spreading knowledge and positivity.</h4>
@@ -84,7 +84,7 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Developer+With+TDD" alt="Typing SVG" /></a>
+  <p style="width:100vw;text-align:center" align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Developer+With+TDD" alt="Typing SVG" /></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThreeShade&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ThreeShade" height="192px"/>
