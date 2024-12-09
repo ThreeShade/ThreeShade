@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=+++++++++++++++++++++++++Full+Stack+Developer+With+TDD" alt="Typing SVG" /></a>
 </p>
 <hr/>
-<h4 align="center">I am a full full stack web developer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am a full stack web developer. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThreeShade&label=Profile%20views&color=0e75b6&style=plastic" alt="ThreeShade" /> </p>
 
